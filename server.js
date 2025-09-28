@@ -58,7 +58,7 @@ function loadKeys() {
 }
 
 // Initialize keys on startup
-generateKeys();
+// generateKeys();
 const { privateKey, publicKey } = loadKeys();
 
 // API Routes
